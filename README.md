@@ -21,6 +21,15 @@ Project Features:
   the title and the user's latitude and longitude as the
   snippet.
 
+<br/><br/>
+🔧 Tech Stack:<br/>
+- Flutter
+- google_maps_flutter
+- geolocator
+- permission_handler
+- fluttertoast
+- GetX
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
